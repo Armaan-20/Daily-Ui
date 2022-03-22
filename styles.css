@@ -42,3 +42,12 @@
   font-size: 0.8rem;
   color: grey;
 }
+/* Mobile optimization */
+
+
+@media screen and (max-width: 720px) {
+  .right{
+    background-color: white;
+    color: black;
+  }
+}
